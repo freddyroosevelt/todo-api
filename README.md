@@ -12,5 +12,3 @@
 
 ### Getting Started: First run: npm install for node modules
 
-####
-![alt text](screenshots/filename.png "https://cloud.githubusercontent.com/assets/9425774/9911229/ed7cee9a-5c55-11e5-9efe-d7f2759d757e.png")
