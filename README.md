@@ -1,5 +1,5 @@
-#Todo REST API with input validation using Postman.
-## Also has Search and Filtering capabilities for a Todo item.
+#Todo API with input validation using Postman.
+##Search and Filtering capabilities for a Todo item.
 
 ### Objective of API:
 
@@ -10,4 +10,4 @@
 ####5. Search by Todo Description with the (eg:) GET /todos?q=work
                                 and/or with GET /todos?q=work&completed=false.
 
-##### Getting Started: First run: npm install for node modules
+### Getting Started: First run: npm install for node modules
