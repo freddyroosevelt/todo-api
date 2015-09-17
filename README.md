@@ -8,7 +8,9 @@
 ####3. Delete a Todo item by :id
 ####4. Filter a Todo Completed item with the GET /todos?completed=true or false input.
 ####5. Search by Todo Description with the (eg:) GET /todos?q=work
-                                and/or with GET /todos?q=work&completed=false.
 
 ### Getting Started: First run: npm install for node modules
+  1. npm install
+  2. node server.js
+  3. Open up Postman for testing
 
